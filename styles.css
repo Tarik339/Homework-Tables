@@ -1,0 +1,17 @@
+.styles{
+
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+.table{
+    background-color: LightYellow;
+}
+
+.auto{
+    font-family: 'Kalam', cursive;
+    font-size: 60px;
+    color: brown;
+}
+ 
